@@ -1,0 +1,17 @@
+{
+  "sections": [
+    {
+      "label": "Getting Started",
+      "docs": [
+        {
+          "docId": "index",
+          "title": "Welcome"
+        },
+        {
+          "docId": "installation",
+          "title": "Installation"
+        }
+      ]
+    }
+  ]
+}
